@@ -18,8 +18,4 @@ O sistema permite o cadastro de produtos, criação de pedidos e finalização c
 
 ## Como executar
 
-1. Compile o projeto:
-   ```sh
-   javac -d bin src/com/br/inatel/pos/ecommerce/main/Main.java
-2. Execute o projeto
-   java -cp bin com.br.inatel.pos.ecommerce.main.Main
+Abra o projeto no Eclipse e execute.
